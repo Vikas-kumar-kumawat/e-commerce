@@ -12,7 +12,7 @@ import test3 from "./assets/test-3.jpg";
 import test4 from "./assets/test-4.jpg";
 import test5 from "./assets/test-5.jpg";
 
-export const products = [
+  export  const products = [
   {
     img: earbud,
     category: "Earphones",
